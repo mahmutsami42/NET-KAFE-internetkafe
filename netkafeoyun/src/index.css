@@ -1,0 +1,4 @@
+@import "tailwindcss";
+html,body,#root{margin:0;height:100%;overflow:hidden;background:#05060f}
+kbd{font-family:inherit}
+canvas{display:block;outline:none}
